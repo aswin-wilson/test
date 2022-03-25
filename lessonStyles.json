@@ -1,0 +1,10 @@
+{
+  "mt-1": "margin-top: 1em",
+  "image-double-wrapper": "display: flex",
+  "image": "display: block; margin-left: auto; margin-right: auto",
+  "info": "font-size: 0.8em",
+  "btn-primary-wrapper": "text-align: center; word-wrap: normal",
+  "btn-primary": "display: inline-block; background-color: #215182; color: #ffffff; border: 0; padding: 1em 2em; border-radius: 20px",
+  "text-style-none": "text-decoration: none",
+  "blue": "color: blue"
+}
