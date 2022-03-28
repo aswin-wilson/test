@@ -1,6 +1,7 @@
 {
   "mt-1": "margin-top: 1em",
   "image-double-wrapper": "display: flex",
+  "image-wrapper": "margin-top: 1em",
   "image": "display: block; margin-left: auto; margin-right: auto",
   "info": "font-size: 0.8em",
   "btn-primary-wrapper": "text-align: center; word-wrap: normal",
