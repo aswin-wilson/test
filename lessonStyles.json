@@ -1,4 +1,5 @@
 {
+  "primary-color": "color: #2d6ba7",
   "mt-1": "margin-top: 1em",
   "image-double-wrapper": "display: flex",
   "image-wrapper": "margin-top: 1em",
