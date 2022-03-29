@@ -1,4 +1,5 @@
 {
+  "homework-heading" : "text-align: center; font-size: 1.5em",
   "congrats": "margin-top: 1em; text-align: center; font-size: 1.1em",
   "li": "font-size: 1.1em; margin-top:1em",
   "ul": "margin: 0",
