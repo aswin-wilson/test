@@ -1,5 +1,5 @@
 {
-  "congrats": "text-align: center; margin-top: 1.5em; font-size: 1.1em",
+  "congrats": "text-align: center; margin-top: 1em; font-size: 1.1em",
   "li": "font-size: 1.1em; margin-top:1em",
   "ul": "margin: 0",
   "first": "font-size: 1.1em",
