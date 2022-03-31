@@ -1,5 +1,5 @@
 {
-  "hr": "border-top: 1px solid #215182; margin:2em 0; opacity: 0.3; width:100%",
+  "hr": "border-top: 1px solid #215182; margin:2em 0; opacity: 0.3; width:100%; display:none",
   "hw-sub": "font-size: 1.25em; font-weight: 600; margin-top: 1.5em",
   "hw-sub-2": "font-size: 1.15em; font-weight: 600; margin-top: 1.5em",
   "cli": "font-size: 1.1em; text-align: justify",
