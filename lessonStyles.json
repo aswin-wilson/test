@@ -1,7 +1,8 @@
 {
+  "hw-sub": "font-size: 1.25em; font-weight: 600",
   "cli": "font-size: 1.1em; text-align: justify",
   "my-1": "margin: 1rem 0; font-size: 1.1em;text-align: justify",
-  "homework-heading" : "text-align: center; font-size: 1.5em",
+  "hw-heading" : "text-align: center; font-size: 1.5em",
   "congrats": "margin-top: 1em; text-align: center; font-size: 1.1em",
   "li": "font-size: 1.1em; margin-top:1em",
   "ul": "margin: 0",
