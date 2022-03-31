@@ -3,6 +3,7 @@
   "hw-sub": "font-size: 1.25em; font-weight: 600; margin-top: 1.5em",
   "hw-sub-2": "font-size: 1.15em; font-weight: 600; margin-top: 1.5em",
   "cli": "font-size: 1.1em; text-align: justify",
+  "cli-h": "font-size: 1.1em; font-weight:600; margin-top: 1em",
   "my-1": "margin: 1rem 0; font-size: 1.1em;text-align: justify",
   "hw-heading" : "text-align: center; font-size: 1.5em; font-weight: 600",
   "hw-heading-2" : "text-align: center; font-size: 1.25em; font-weight: 600",
