@@ -20,6 +20,6 @@
   "image": "display: block; margin-left: auto; margin-right: auto",
   "info": "margin-top: 1em; font-size: 0.9em",
   "btn-primary-wrapper": "text-align: center; word-wrap: normal",
-  "btn-primary": "display: inline-block; background-color: #215182; color: #ffffff; border: 0; padding:0.75em 1.5em; font-weight: 550; border-radius: 20px; font-size: 1.1em; margin-top: 1em",
+  "btn-primary": "display: inline-block; background-color: #215182; color: #ffffff; border: 0; padding:0.75em 1.5em; font-weight: 600; border-radius: 20px; font-size: 1.1em; margin-top: 1em",
   "text-style-none": "text-decoration: none"
 }
