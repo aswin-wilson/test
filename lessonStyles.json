@@ -1,6 +1,5 @@
 {
   "ol-a": "list-style-type: lower-alpha; line-height: 1.6",
-  "hr": "",
   "hw-sub": "font-size: 1.25em; font-weight: 600; margin-top: 1.5em; line-height: 1.6",
   "hw-sub-2": "font-size: 1.15em; font-weight: 600; margin-top: 1.5em; line-height: 1.6",
   "cli": "font-size: 1.1em; text-align: justify; line-height: 1.6",
