@@ -21,7 +21,7 @@
   "image-wrapper": "margin: 1em 0",
   "image": "display: block; margin-left: auto; margin-right: auto",
   "info": "margin-top: 1em; font-size: 1em",
-  "btn-primary-wrapper": "text-align: center; word-wrap: normal; margin: 1em 0 1.5em",
+  "btn-primary-wrapper": "text-align: center; word-wrap: normal; margin: 1.5em 0",
   "btn-primary": "display: inline-block; background-color: #215182; color: #ffffff; border: 0; padding:0.75em 2em; font-weight: 600; border-radius: 20px; font-size: 1.1em",
   "text-style-none": "text-decoration: none"
 }
