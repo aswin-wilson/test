@@ -3,7 +3,7 @@
   "hw-sub": "font-size: 1.3em; font-weight: 600; margin-top: 1.5em; line-height: 1.6",
   "hw-sub-2": "font-size: 1.25em; font-weight: 600; margin-top: 1.5em; line-height: 1.6",
   "cli": "font-size: 1.2em; text-align: justify; line-height: 1.6",
-  "cli-h": "font-size: 1.2em; font-weight:600; margin-top: 1.5em; line-height: 1.6",
+  "cli-h": "font-size: 1.2em; font-weight:600; margin-top: 1em; line-height: 1.6",
   "my-1": "margin: 1rem 0; font-size: 1.2em;text-align: justify; line-height: 1.6",
   "hw-heading" : "text-align: center; font-size: 1.5em; font-weight: 600",
   "hw-heading-2" : "text-align: center; font-size: 1.25em; font-weight: 600",
@@ -21,7 +21,7 @@
   "image-wrapper": "margin: 1em 0",
   "image": "display: block; margin-left: auto; margin-right: auto",
   "info": "margin-top: 1em; font-size: 1em",
-  "btn-primary-wrapper": "text-align: center; word-wrap: normal; margin: 1em 0",
+  "btn-primary-wrapper": "text-align: center; word-wrap: normal; margin: 1em 0 2em 0",
   "btn-primary": "display: inline-block; background-color: #215182; color: #ffffff; border: 0; padding:0.75em 2em; font-weight: 600; border-radius: 20px; font-size: 1.1em",
   "text-style-none": "text-decoration: none"
 }
